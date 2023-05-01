@@ -7,6 +7,7 @@ def set_up():
     yield
     print("Sign Out")
 
+#@pytest.fixture(scope="function")
 @pytest.fixture(scope="module")
 def some():
     print("Start")
