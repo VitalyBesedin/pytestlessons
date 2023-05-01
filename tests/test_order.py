@@ -4,7 +4,7 @@ def test_method_1():
 def test_method_2():
     print("Method 2")
 
-def test_method_2():
+def test_method_3():
     print("Method 3")
 
 def test_method_4():
